@@ -1,0 +1,10 @@
+{
+  "name": "আল-মাবরুর হজ ও ওমরাহ",
+  "lang": "bn-BD",
+  "short_name": "আল-মাবরুর",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FAF7F0",
+  "theme_color": "#06302A",
+  "icons": [{ "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

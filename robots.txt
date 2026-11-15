@@ -1,0 +1,23 @@
+# Al-Mabrur Hajj & Umrah — demo
+User-agent: *
+Allow: /
+
+# AI answer engines are welcome (GEO)
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Claude-User
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Applebot-Extended
+Allow: /
+
+Sitemap: https://www.almabrurhajj.com.bd/sitemap.xml

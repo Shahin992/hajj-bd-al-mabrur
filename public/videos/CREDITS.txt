@@ -1,0 +1,3 @@
+Hero video: Pexels video 35189252 ("Aerial View of Kaaba in Mecca"), https://www.pexels.com/video/aerial-view-of-kaaba-in-mecca-35189252/
+Licence: Pexels License (free to use, no attribution required).
+Edited: cropped to 9:11, seamless 1s crossfade loop, muted, re-encoded (WebM VP9 + MP4 H.264).
