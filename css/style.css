@@ -936,6 +936,15 @@ html:not(.motion) .m-progress { display: none; }
 .feature-link__arrow { width: 1.6rem; height: 1.6rem; color: var(--gold-300); transition: transform .3s var(--ease); }
 .feature-link:hover .feature-link__arrow { transform: translateX(4px); }
 
+/* ---------- 404 ---------- */
+.notfound-links__title { margin-bottom: clamp(1.5rem, 3vw, 2rem); }
+.notfound-links { display: grid; gap: 1rem; grid-template-columns: repeat(auto-fit, minmax(min(100%, 26rem), 1fr)); }
+.notfound-links .feature-link__text > span:last-child { font-size: .94rem; color: rgba(255, 255, 255, .78); }
+@media (max-width: 479px) {
+  .notfound-links .feature-link { gap: .9rem; padding: 1.15rem 1.1rem; }
+  .notfound-links .feature-link__ico { width: 46px; height: 46px; border-radius: 14px; }
+}
+
 /* ---------- Articles & prose ---------- */
 .section--article { padding-block: clamp(2.5rem, 5vw, 4rem) clamp(4rem, 8vw, 6rem); }
 .article { display: grid; grid-template-columns: minmax(0, 1fr); gap: 2.5rem; align-items: start; }
